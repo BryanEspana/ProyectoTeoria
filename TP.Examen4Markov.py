@@ -1,3 +1,15 @@
+"""
+Universidad del Valle de Guatemala
+Teoría de Probabilidades
+Examen #4
+Problema #3
+
+Bryan Carlos Roberto España Machorro - 21550
+Javier Alejandro Prado Ramirez  - 21486
+Joaquín André Puente Grajeda - 22296
+Roberto Francisco Rios Morales - 20979
+Alejandro José Martínez León- 21430
+"""
 import numpy as np
 
 # Matriz de transición
